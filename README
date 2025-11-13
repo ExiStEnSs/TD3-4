@@ -1,5 +1,10 @@
+ HEAD
 Exercise 4: Resolve merge conflicts
 For the repository owner... In the web UI, make sure lines 2 to 6 of the
 README.md are not empty.
 One person at a time, using only the shell :
 1. Switch back to your own branch (not including the latest changes from the master branch).
+
+a
+some change by Kylia
+4227ed1 (Test commit: modification du README)
